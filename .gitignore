@@ -1,0 +1,18 @@
+# Python 虚拟环境与缓存
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 本地私有配置（含个人库路径，切勿提交）
+config.local.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 日志
+*.log
